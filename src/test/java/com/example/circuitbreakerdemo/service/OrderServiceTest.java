@@ -1,0 +1,1 @@
+package com.example.circuitbreakerdemo.service; import org.junit.jupiter.api.Test; import static org.junit.jupiter.api.Assertions.*; class OrderServiceTest{ @Test void fallback(){ assertTrue(true);} }

@@ -1,0 +1,1 @@
+package com.example.circuitbreakerdemo; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class CircuitBreakerDemoApplication{ public static void main(String[] a){SpringApplication.run(CircuitBreakerDemoApplication.class,a);} }
